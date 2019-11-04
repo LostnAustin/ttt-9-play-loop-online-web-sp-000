@@ -42,14 +42,4 @@ def play(board)
   turn(board)
   end
 end
-# turn(board)
-#  i = '9'
-#   val == '9'
-#    break
-
-
-#ending of loop
-
-#i = turn(board)
-#for i in 1..9 do
-#turn(board)
+# loop through a variable i, 9 times, returning turn(board each time)
